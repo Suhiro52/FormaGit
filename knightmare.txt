@@ -1,4 +1,5 @@
 Glasgow: Gen 5 Knightmare
 Gloucester: Gen 6 knightmare
 Lancelot: Gen 7 knightmare
+Gurren: Gen 7 knightmare
 Lancelot Albion: Gen 8 knightmare

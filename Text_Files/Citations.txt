@@ -1,2 +1,7 @@
 La fleur en bouquet fane... et jamais ne renaît!!
+<<<<<<< HEAD
 Couillère~
+=======
+Couillère~
+Branche CG
+>>>>>>> CodeGeass
